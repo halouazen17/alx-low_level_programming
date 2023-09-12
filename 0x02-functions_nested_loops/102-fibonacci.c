@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 /**
  * main - program to find first 52 fibonacci number
  * Return: 0
