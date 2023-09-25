@@ -1,8 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_chessboard - entry point
- * @a: array
+ * print_diagsums - entry point
+ * @a: input
+ * @size: input
  * Return: 0
  */
 void print_diagsums(int *a, int size)
