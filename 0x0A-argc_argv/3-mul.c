@@ -17,7 +17,7 @@ if (argc == 3)
 }
 else
 {
-	printf("error\n");
+	printf("Error\n");
 	return (1);
 }
 return (0);
